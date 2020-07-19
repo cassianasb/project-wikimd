@@ -19,17 +19,20 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 [Comidas]()
-* # Carnes
-* [Aves]()
-* [Bovina]()
-* [Suína]()
-* [Outras]()
-* # Massas
-* # Molhos
+  * # Carnes
+  * [Aves]()
+  * [Bovina]()
+  * [Suína]()
+  * [Outras]()
+  - - - -
+  * # Massas
+   - - - -
+  * # Molhos
 
 [Bebidas]()
-* # Alcóolicas
-* # Não Alcóolicas
+  * # Alcóolicas
+  * # Não Alcóolicas
+  
 [Saiba Mais](pages/about.md)
 [Download](pages/download.md)
 
