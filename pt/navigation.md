@@ -18,29 +18,12 @@
   -- Navigation
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
-[Comidas](pages/about.md)
-
-  * # Carnes
-  * [Aves](pages/about.md)
-  * [Bovina](pages/about.md)
-  * [Suína](pages/about.md)
-  * [Outras](pages/about.md)
-  - - - -
-  * # Massas
-  * [Massas](pages/about.md)
-   - - - -
-  * # Molhos
-  * [Molhos](pages/about.md)
-
-[Bebidas]()
-  * # Alcóolicas
-  * # Não Alcóolicas
   
 [Saiba Mais](pages/about.md)
 
 [Download](pages/download.md)
 
-<!-- A more complex navigation example: ----------------------------------------
+
 
 [Menu Item 1]()
 
@@ -58,7 +41,6 @@
 
 [Menu Item 3](pages/item3.md)
 
----------------------------------------------------------------------------- -->
 
 <!--
   -- Change the Language
